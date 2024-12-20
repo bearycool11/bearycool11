@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bearycool11
 - 👀 I’m interested in using the new logic loop I invented in to help create better memory within AI language models, especially short term
-- 🌱 I’m currently USING Azure Logic apps, to see the difference in their logic loop and my logic loop
-- 💞️ I’m looking to collaborate on ChatGPT, Meta, and implenting more refined, advanced models that cross talk with other models without crashing
+- 🌱 I’m currently USING and am an expert consultant with Azure Logic apps, C programing, AI, Memory Architecture  to see the difference in their logic loop and my logic loop as research collaboration and potential. I work alongisde #Microsoft and also #OpenAI
+- 💞️ I’m looking to collaborate on ChatGPT, Meta, and implenting more refined, advanced models that cross talk and use them with other models without crashing
 - 📫 How to reach me Josef_edwards@yahoo.com or Josef.edwards.nakamoto@proton.me
 - 😄 Pronouns: some gay dude, I dunno
 - ⚡ Fun fact: When I merged the two hemispheres, this was the first output 
