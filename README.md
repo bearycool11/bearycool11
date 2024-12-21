@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @bearycool11
 - 👀 I’m interested in using the new logic loop I invented in to help create better memory within AI language models, especially short term
+-🌱 implementing Assembly Language for granular fine tuning within memory systems for AI, also formalizing and defining C using Assembly Language as the base.
 - 🌱 I’m currently USING and am an expert consultant with Azure Logic apps, C programing, AI, Memory Architecture  to see the difference in their logic loop and my logic loop as research collaboration and potential. I work alongisde #Microsoft and also #OpenAI
 - 💞️ I’m looking to collaborate on ChatGPT, Meta, and implenting more refined, advanced models that cross talk and use them with other models without crashing
 - 📫 How to reach me Josef_edwards@yahoo.com or Josef.edwards.nakamoto@proton.me
