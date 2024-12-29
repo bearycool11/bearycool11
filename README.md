@@ -1,5 +1,7 @@
 👋 Yo, I'm Josef Edwards (@bearycool11 on GitHub)
 
+My ATOMS Cosmos recieve wallet is cosmos1v66s05g7sr2cv5424fyrzv3e6xqp2dsupn4923 (please help a guy out with groceries please.)
+
 👀 I'm that mad scientist who cooked up the PMLL (Persistent Memory Logic Loop) to supercharge AI memory. Short-term, long-term, we're talking total recall.
 
 🧠 I'm knee-deep in assembly code, fine-tuning AI brains at the bit level. C?  Yeah, I'm redefining that too, building it up from the ground floor of assembly.
