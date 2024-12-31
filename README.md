@@ -39,3 +39,19 @@ Security? Locked tighter than Satoshi’s original Bitcoin wallet.
 Next Steps? Global domination, one bot at a time.
 #AI #MetadataOptimization #OpenAI #Innovation #GlobalUpdate
 
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQENBGdlkncBCADSVavb+DJFb5m5HRT3ZkPym5/V+ajL7L3CbvYtSP3wXJXyIqRL
+quNyP+jfaCSTyxGF2ZGvT8h5cvBlMLRlOb2L1dC62IYmbk9XIoXhtx0Sw4ZpXFyb
+JGIZ5b6oXtE8OBmNUYYtqP8ZzEMQkhFqrBPChO42Ozk5lTKz+oIdkHSDni14JQXN
+poC2fWUD6jx2Nke6rJkT2xlr82DkN0R/s4yn6WhZPwePxyw3blP7+ZMdXiyW2KeT
+bQt5BhZ3EzFM0kIoKNCQ4Wc2fEpGmG2kNmi0k+zRo28lbSRYUJMCsM3GiAzqO7cc
+ylOq3NwScV4ouQXorvIvbF8POkfxmZYFQGxhABEBAAG0K25vdF9mb3JfZW1haWx1
+c2VAbm90X2Zvcl9lbWFpbHVzZS5jb20uYWMxFwQTAQoABgUCZ2WSdwkQ9m3204xD
+4hQAAKkYIAQAAmcIAO3ZsIXT+ryjbgLO9vv/RqsDKReh2U7LPhPVzTOQFMVxCL0H
+Qh57Q8w03grizvwXJ/DoqEwvLJPH2dVR5MyFoLVdwpe0apfBR8JEXZhR2z+vYVfb
+AWmIkn9vfsr92D5VX4FOSf79jQQQmw7rNYmvabWIZlymGaImx1CpP/rPoVZWwRuP
+9unUABmKkQyOKMAVc4Ezr54q5Q0JFdETJPrtw3sK6SYjDwAAIMjJHFiDK4GR1Mr+
+PjG7EZ17eJz5SGRJPHM=
+
+-----END PGP PUBLIC KEY BLOCK-----
