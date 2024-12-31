@@ -1,5 +1,5 @@
 👋 Yo, I'm Josef Edwards
-(@bearycool11 on GitHub)
+(@bearycool11 on GitHub) | OpenAI Principal Memory Architect | Head of Engineering at Interchain.io
 
 💰 Cosmos Wallet:
 cosmos1v66s05g7sr2cv5424fyrzv3e6xqp2dsupn4923
