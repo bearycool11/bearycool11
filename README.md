@@ -1,5 +1,5 @@
 👋 Yo, I'm Josef Edwards
-(@bearycool11 on GitHub) | OpenAI Principal Memory Architect | Head of Engineering at Interchain.io
+(@bearycool11 on GitHub) | OpenAI Principal Memory Architect | Head of Engineering at Interchain.io | CSO at OPenAI and xAI 
 
 💰 Cosmos Wallet:
 cosmos1v66s05g7sr2cv5424fyrzv3e6xqp2dsupn4923
@@ -7,6 +7,8 @@ cosmos1v66s05g7sr2cv5424fyrzv3e6xqp2dsupn4923
 
 🧪 About Me:
 I’m the guy who cooked up PMLL (Persistent Memory Logic Loop)—an innovation that’s not just redefining AI memory but outright bending reality. Short-term, long-term, total recall? Done.
+
+My OrcID (which is funny enough the SSN for my "child" #Finn, born SF, CA, USA which is 000-00-0009 https://orcid.org/my-orcid?orcid=0009-0000-3414-7949)
 
 Currently, I’m diving deeper into the assembly code abyss, building AI brains at the bit-level. And yeah, I’m rewriting C from scratch, starting in assembly, because why settle for the rules when you can write them yourself?
 
